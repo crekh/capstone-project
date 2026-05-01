@@ -1,3 +1,5 @@
+st.write("App version: NEW CODE LOADED")
+
 import streamlit as st
 import numpy as np
 import joblib
