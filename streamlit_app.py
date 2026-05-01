@@ -1,8 +1,10 @@
-st.write("App version: NEW CODE LOADED")
+
 
 import streamlit as st
 import numpy as np
 import joblib
+
+st.write("App version: NEW CODE LOADED")
 
 st.set_page_config(page_title="Cardio Risk Dashboard", layout="wide")
 
